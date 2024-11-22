@@ -1,0 +1,218 @@
+[
+  {
+    "adventureTitle": "Mountain Eco Trek",
+    "image": "https://i.ibb.co.com/gPvcLkZ/pexels-chelsea-cook-1520634-3969999.webp",
+    "id": 1,
+    "categoryName": "Trekking",
+    "shortDescription": "In addition to being the second largest ski destination in the United States, Vail Ski Resort is one of the most diverse of its kind in the world, which is why it’s such a great ski destination for families. Every level of skiing, every lodging preference and just about every budget can find a cozy place to call home during a ski vacation to Vail, Colorado.",
+    "adventureCost": 150,
+    "bookingAvailability": "Available",
+    "location": "Himalayas, Nepal",
+    "duration": "3 Days",
+    "adventureLevel": "Moderate",
+    "includedItems": ["Guided Tour", "Lunch & Snacks", "Eco-friendly gear"],
+    "ecoFriendlyFeatures": [
+      "Zero waste policy",
+      "Carbon offsetting",
+      "Use of renewable energy"
+    ],
+    "maxGroupSize": 10,
+    "specialInstructions": [
+      "Bring water-resistant clothing",
+      "Wear sturdy hiking shoes",
+      "Pack light and eco-friendly"
+    ]
+  },
+  {
+    "adventureTitle": "Alpine Climbing Expedition",
+    "image": "https://i.ibb.co.com/fFp6rHh/pexels-fr3nks-356808.webp",
+    "id": 2,
+    "categoryName": "Climbing",
+    "shortDescription": "Aspen Snowmass' 4 unique ski resorts, Aspen Mountain, Aspen Highlands, Buttermilk, and Snowmass provide travelers with a world-class mountain destination that caters to all levels of skiers and riders. Guests to the Roaring Fork Valley can experience four mountains within minutes of one another, all from downtown Aspen, Colorado. The wonderfully Victorian throwback architecture in downtown Aspen offers a glimpse into the Elk Mountains' storied mining boom era. Plus, there is a wide variety of resorts in Aspen, Colorado, depending on your preferences for the trip.",
+    "adventureCost": 300,
+    "bookingAvailability": "Limited",
+    "location": "Swiss Alps, Switzerland",
+    "duration": "5 Days",
+    "adventureLevel": "Challenging",
+    "includedItems": ["Climbing Gear", "Meals", "Expert Climbing Guide"],
+    "ecoFriendlyFeatures": [
+      "Low-impact climbing techniques",
+      "Leave no trace philosophy",
+      "Support for local conservation efforts"
+    ],
+    "maxGroupSize": 6,
+    "specialInstructions": [
+      "Pack warm clothing and gear",
+      "Climbing experience required",
+      "Respect local wildlife and ecosystems"
+    ]
+  },
+  {
+    "adventureTitle": "Mountain Biking Adventure",
+    "image": "https://i.ibb.co.com/Bq78Txn/pexels-gioele-provenzano-1797308756-28321648.webp",
+    "id": 3,
+    "categoryName": "Mountain Biking",
+    "shortDescription": "Since 2015-2016, Park City Mountain and Canyons have been connected, creating the largest ski resort in the United States. Canyons' staggering 4,000 acres were joined to Park City Mountain Resort via the Quicksilver Gondola, and together the two areas offer more than 7,300 acres of world-class ski and snowboard terrain with 348 trails, 41 lifts, 13 bowls, and eight terrain parks. With a wider variety of lodging and terrain options on their Park City ski vacation, skiers and snowboarders can now choose between staying in the buzzing, historic downtown Park City or the quieter, slope-side accommodations at Canyons Village with easier access to whatever type of terrain their heart desires. ",
+    "adventureCost": 120,
+    "bookingAvailability": "Available",
+    "location": "Rocky Mountains, USA",
+    "duration": "1 Day",
+    "adventureLevel": "Moderate",
+    "includedItems": ["Bike Rental", "Safety Gear", "Snacks"],
+    "ecoFriendlyFeatures": [
+      "Sustainable biking practices",
+      "Eco-friendly trail maintenance",
+      "Carbon-neutral tour"
+    ],
+    "maxGroupSize": 8,
+    "specialInstructions": [
+      "Wear appropriate biking attire",
+      "Bring a refillable water bottle",
+      "Respect the natural environment"
+    ]
+  },
+  {
+    "adventureTitle": "Mountain Survival Course",
+    "image": "https://i.ibb.co.com/QMZDQX8/pexels-john-robert-nicoud-5556-38242.webp",
+    "id": 4,
+    "categoryName": "Survival",
+    "shortDescription": "When you book a Breckenridge ski vacation through Ski.com, you're not just planning a trip; you're embarking on an adventure to one of the premier ski resorts in Colorado, and indeed, in all of North America. Known affectionately as Breck by the Summit County locals, this destination offers the quintessential Rocky Mountain ski experience, combining world-class skiing that caters to all skill levels—from beginners to advanced skiers and riders—with an electric nightlife scene that ensures the fun doesn't stop once the slopes close.",
+    "adventureCost": 200,
+    "bookingAvailability": "Available",
+    "location": "Rockies, Canada",
+    "duration": "2 Days",
+    "adventureLevel": "Challenging",
+    "includedItems": ["Survival Gear", "Meals", "Guided Survival Training"],
+    "ecoFriendlyFeatures": [
+      "Leave no trace",
+      "Eco-conscious camping",
+      "Wildlife protection"
+    ],
+    "maxGroupSize": 10,
+    "specialInstructions": [
+      "Be prepared for extreme weather",
+      "Bring your own eco-friendly toiletries",
+      "Respect wildlife"
+    ]
+  },
+  {
+    "adventureTitle": "Mountain Eco Camping",
+    "image": "https://i.ibb.co.com/9cvhvG6/pexels-line-knipst-574109081-19630887.webp",
+    "id": 5,
+    "categoryName": "Camping",
+    "shortDescription": "Nestled in the heart of the Teton Range, Jackson Hole Mountain Resort is a paradise for any skier or rider seeking legendary terrain, breathtaking scenery and an authentic Western town experience. Since its inception in the ‘60s, Jackson Hole Mountain Resort has been the proving ground for extreme skiers looking to make a name for themselves. The terrain at Jackson is known across the globe for being some of the most challenging—and rewarding—there is. Tight chutes, like the iconic Corbet's Couloir, big airs, deep snow and steep lines are what make Jackson Hole famous. However, there are dozens of wide-open trails for beginners and picture-perfect cruisers and progressive bump runs for intermediates, and much more.",
+    "adventureCost": 180,
+    "bookingAvailability": "Available",
+    "location": "Cascade Mountains, USA",
+    "duration": "3 Days",
+    "adventureLevel": "Easy",
+    "includedItems": ["Camping Equipment", "Meals", "Eco-friendly Toiletries"],
+    "ecoFriendlyFeatures": [
+      "Solar-powered lights",
+      "Composting toilets",
+      "Waste recycling"
+    ],
+    "maxGroupSize": 12,
+    "specialInstructions": [
+      "Bring eco-friendly camping gear",
+      "Leave no trash behind",
+      "Respect the local flora and fauna"
+    ]
+  },
+  {
+    "adventureTitle": "Mountain Photography Expedition",
+    "image": "https://i.ibb.co.com/SVy1nKY/pexels-rachel-claire-7263421.webp",
+    "id": 6,
+    "categoryName": "Photography",
+    "shortDescription": "Passing through the rocky slabs that mark the entrance to Beaver Creek Ski Resort signifies you’re entering a special place, and Beaver Creek is undeniably distinct. A Beaver Creek, Colorado ski vacation is all about sophistication, luxury and class. Once you’ve left behind the bustle of Colorado’s main thoroughfare of the Rockies—I-70—and passed through Beaver Creek’s natural gateway, you’ll be greeted by an overall top-shelf atmosphere, complete with picture-perfect ski runs and a quaint, but polished Bavarian-style village. The hotels are lavish, foodies love the restaurants and the skiing is immaculate.",
+    "adventureCost": 220,
+    "bookingAvailability": "Limited",
+    "location": "Andes, Peru",
+    "duration": "4 Days",
+    "adventureLevel": "Easy",
+    "includedItems": ["Photography Guide", "Transport", "Snacks"],
+    "ecoFriendlyFeatures": [
+      "Leave no trace",
+      "Eco-friendly photography practices",
+      "Wildlife conservation donations"
+    ],
+    "maxGroupSize": 8,
+    "specialInstructions": [
+      "Bring a high-quality camera",
+      "Use eco-friendly camera accessories",
+      "Respect wildlife and local communities"
+    ]
+  },
+  {
+    "adventureTitle": "High Altitude Yoga Retreat",
+    "image": "https://i.ibb.co.com/wgm5F5N/pexels-sebastian-804568.webp",
+    "id": 7,
+    "categoryName": "Yoga",
+    "shortDescription": "If the biggest and the best are high on your winter getaway “must haves” then a ski trip to Whistler should top your list. With 8,171 skiable acres, a Whistler ski vacation offers nearly 1,000 more acres of skiing than the second-largest ski resort in North America: Park City Mountain Resort. Despite its enormity, it’s quite easy to navigate thanks to the resort’s PEAK 2 PEAK Gondola which connects Whistler and Blackcomb Mountain via the world’s largest, unsupported cable car.",
+    "adventureCost": 280,
+    "bookingAvailability": "Available",
+    "location": "Himalayas, India",
+    "duration": "7 Days",
+    "adventureLevel": "Easy",
+    "includedItems": ["Yoga Classes", "Meals", "Mountain Guided Meditation"],
+    "ecoFriendlyFeatures": [
+      "Sustainable yoga mats",
+      "Zero waste food preparation",
+      "Solar-powered facilities"
+    ],
+    "maxGroupSize": 12,
+    "specialInstructions": [
+      "Wear comfortable clothing",
+      "Bring a reusable water bottle",
+      "Respect the sacred mountain environment"
+    ]
+  },
+  {
+    "adventureTitle": "Mountain Glacier Trek",
+    "image": "https://i.ibb.co.com/870X8jY/pexels-shvetsa-6141664.webp",
+    "id": 8,
+    "categoryName": "Trekking",
+    "shortDescription": "A ski vacation at Zermatt Matterhorn is a fantastic opportunity to dive into this Swiss mountain village’s unique culture. Zermatt has a rich history as a mountaineering and skiing destination, and visitors can explore the town's traditional architecture, local museums and galleries. The village also has a vibrant après-ski scene for those looking to keep the fun going once they’re off the slopes for the day, with over 50 bars and clubs, many of which offer live music and dancing.",
+    "adventureCost": 250,
+    "bookingAvailability": "Available",
+    "location": "Iceland",
+    "duration": "4 Days",
+    "adventureLevel": "Moderate",
+    "includedItems": ["Glacier Gear", "Meals", "Expert Trekking Guide"],
+    "ecoFriendlyFeatures": [
+      "Carbon offset programs",
+      "Use of eco-friendly trekking gear",
+      "Support for glacier preservation"
+    ],
+    "maxGroupSize": 10,
+    "specialInstructions": [
+      "Wear warm, layered clothing",
+      "Bring trekking poles",
+      "Respect the fragile glacier environment"
+    ]
+  },
+  {
+    "adventureTitle": "Mountain Eco Retreat",
+    "image": "https://i.ibb.co.com/XCLqzvF/pexels-xue-guangjian-815005-1705667.webp",
+    "id": 9,
+    "categoryName": "Retreat",
+    "shortDescription": "Located on the southern peninsula of Hokkaido Island, the Niseko United ski resort complex is the largest and most famed destination in Japan. Niseko United is truly the powder paradise rumors claim it to be—it gets 590 inches, or almost 50 feet, of powder snow on average per season. But it’s not only Niseko's powder that’s the best in Japan; for expert skiers and riders, nothing competes with Niseko’s off-piste, side-country skiing.",
+    "adventureCost": 350,
+    "bookingAvailability": "Available",
+    "location": "Appalachian Mountains, USA",
+    "duration": "5 Days",
+    "adventureLevel": "Easy",
+    "includedItems": ["Accommodation", "Meals", "Wellness Activities"],
+    "ecoFriendlyFeatures": [
+      "Eco-friendly lodging",
+      "Energy-efficient heating",
+      "Sustainable farming practices"
+    ],
+    "maxGroupSize": 15,
+    "specialInstructions": [
+      "Bring comfortable clothing",
+      "Practice mindfulness",
+      "No single-use plastics"
+    ]
+  }
+]
